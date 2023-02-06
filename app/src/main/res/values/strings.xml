@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectUKL_ResepMakanan</string>
+
+    <string name="PenjelasanResep">Resep nasi goreng enak selalu tepat disajikan untuk makan pagi, siang, ataupun malam.Dengan topping telur, ayam suwir, udang, bakso sapi, dan bakso ikan,jadikan resep nasi goreng spesial berikut sebagai menu favorit baru untuk keluarga.Setelah berbelanja berbagai bahannya, mari kita coba cara masak nasi goreng yang satu ini!
+    </string>
+
+    <string name="JudulBahan">Bahan-Bahan:</string>
+    <string name="Bahan_Bahan">
+        1 potong paha ayam atas bawah rebus, suwir ayamnya\n
+        2 butir telur, kocok lepas\n
+        150 gram udang tanpa kulit\n
+        5 buah bakso sapi, potong-potong\n
+        5 buah bakso ikan, potong-potong\n
+        500 gram nasi putih\n
+        2 sendok makan KECAP MANIS BANGO\n
+        1 sendok teh garam\n
+        1/2 sendok teh gula pasir\n
+        1 batang daun bawang, diiris tipis\n
+        1 1/2 sendok makan bawang goreng untuk taburan\n
+        3 sendok makan minyak untuk menumis </string>
+    
+    <string name="JudulTumbuk">Bumbu Tumbuk Kasar:</string>
+    <string name="BahanTumbuk">
+        1 sendok teh terasi, bakar\n
+        3 buah cabai merah besar\n
+        3 buah cabai merah keriting\n
+        2 siung bawang putih\n
+        6 butir bawang merah</string>
+
+    <string name="CaraMasak">Cara Masak:</string>
+    <string name="Masak">
+
+
+        </string>
+
+    <string name="receipt">Resep NasiGoreng</string>
+    <string name="JudulResep">Resep Nasi Goreng</string>
+    <string name="textview">TextView</string>
+    <string name="dibuat_oleh">Dibuat_oleh</string>
+    <string name="nyoman_bayu_surapati">Nyoman Bayu Surapati</string>
+</resources>
